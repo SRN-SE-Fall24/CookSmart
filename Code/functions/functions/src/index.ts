@@ -23,7 +23,7 @@ const corsMiddleware = cors(corsOptions);
 // Start writing functions
 // https://firebase.google.com/docs/functions/typescript
 
-const GEMINI_KEY = "AIzaSyAbGv664iB48XgsrV917cpUc7SVQW4dfWE";
+const GEMINI_KEY = "YOUR_GEMINI_KEY";
 
 var browser: Browser;
 var page: Page;
